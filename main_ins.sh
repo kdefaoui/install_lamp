@@ -6,7 +6,7 @@
 #    By: kdefaoui <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/01/14 19:19:36 by kdefaoui          #+#    #+#              #
-#    Updated: 2019/01/14 22:54:03 by kdefaoui         ###   ########.fr        #
+#    Updated: 2019/01/14 23:10:20 by kdefaoui         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -26,7 +26,7 @@ then
 	ln -s /Volumes/Storage/goinfre/$login/.docker .docker
 fi
 # install LAMP
-cd ~/Desktop
+cd ~
 git clone https://github.com/sprintcube/docker-compose-lamp.git
 cd docker-compose-lamp/
 git fetch --all
