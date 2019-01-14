@@ -7,6 +7,7 @@ Link of the <b>docker-compose-lamp</b> Project : https://github.com/sprintcube/d
 # Usage :
 start <b>DOCKER</b><br />
 git clone https://github.com/kdefaoui/install_lamp.git<br />
+cd install_lamp.git<br />
 chmod +x installer.py<br />
 ./installer.py
 # How to Start using MySql :
